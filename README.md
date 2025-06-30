@@ -1,6 +1,7 @@
 # ShadowFox
 Task Level (Beginner): Do 5 out of 9
-1. Variables
+Variables
+
 1. Create a variable named pi and store the value 22/7 in it.
 Now check the data type of this variable.
 2. Create a variable called for and assign it a value 4. See what
@@ -9,7 +10,9 @@ see.
 3. Store the principal amount, rate of interest, and time in
 different variables and then calculate the Simple Interest for 3
 years. Formula: Simple Interest = P x R x T / 100
-2. Numbers
+
+Numbers
+
 1. Write a function that takes two arguments, 145 and 'o', and
 uses the `format` function to return a formatted string. Print the
 result. Try to identify the representation used.
@@ -24,7 +27,8 @@ Water per Square Meter
 speed in meters per second. Print the answer without any decimal
 point in it. Hint: Speed = Distance / Time
 
-3. List
+List
+
 1. You have a list of superheroes representing the Justice
 League. justice_league = ["Superman", "Batman", "Wonder
 Woman", "Flash", "Aquaman", "Green Lantern"]
@@ -48,7 +52,8 @@ Your task is to write Python code to perform these operations on
 the "justice_league" list. Display the list at each step to observe
 the changes.
 
-4. If Condition
+If Condition
+
 1. Write a program to determine the BMI Category based on user input.
 Ask the user to:
 Enter height in meters
@@ -73,7 +78,7 @@ Example:
 Enter a city name: "Abu Dhabi"
 Output: "Abu Dhabi is in UAE"
 
-4. If Condition (Continued...)
+ If Condition (Continued...)
 3. Write a program to check if two cities belong to the same country.
 Ask the user to enter two cities and print whether they belong to the
 same country or not.
@@ -86,7 +91,8 @@ Enter the first city: "Sydney"
 Enter the second city: "Dubai"
 Output: "They don't belong to the same country"
 
-5. For Loop:
+For Loop:
+
 1. Using a for loop, simulate rolling a sixsided die multiple times (at least 20
 times).
 Count and print the following statistics:
@@ -121,7 +127,7 @@ Beautiful Soup or Scrapy.
 progress and hints.
 
 Task 3(Advanced level): Do any 1 out of 3
-1. Cricket Fielding Analysis Data Collection Objective:
+Cricket Fielding Analysis Data Collection Objective:
 As a budding sports analyst with an interest in cricket, your task is to
 conduct a detailed fielding performance analysis for three players of
 your choice from any innings of a T20 match. This analysis will help to
